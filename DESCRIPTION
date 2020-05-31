@@ -1,0 +1,16 @@
+Package: rmachinery
+Title: Rmachinery
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Nathaniel",
+           family = "Capule",
+           role = c("aut", "cre"),
+           email = "nathaniel.capule@cel-consulting.com")
+Description: Create machinery workers for R
+License: use_mit_license()
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Imports:
+    redux, mongolite, urltools, jsonlite, uuid
